@@ -26,6 +26,14 @@
 
 <img src="https://img.shields.io/badge/Notion-000000?style=flat-square&logo=Notion&logoColor=white"/> 
 
+<h2>📫 HOW TO REACH ME</h2>
+
+<img src="https://img.shields.io/badge/Naver-03C75A?style=flat-square&logo=Naver&logoColor=white"/> : whdwnsdk8111@naver.com
+
+<img src="https://img.shields.io/badge/Facebook-1877F2?style=flat-square&logo=Facebook&logoColor=white"/> : [whdwnsdk8111@naver.com](https://www.facebook.com/profile.php?id=100008341442712)
+
+<img src="https://img.shields.io/badge/Instagram-E4405F?style=flat-square&logo=Instagram&logoColor=white"/> : [whdwnsdk8111@naver.com](https://www.instagram.com/jong._.joon/?hl=ko)
+
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ParkJongJoon7128)](https://github.com/ParkJongJoon7128/github-readme-stats)
 
