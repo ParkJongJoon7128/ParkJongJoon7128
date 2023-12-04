@@ -16,3 +16,11 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=jvelop&show_icons=true&locale=en" alt="jvelop" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=jvelop&" alt="jvelop" /></p>
+
+
+
+|제목|내용|링크|
+|------|---|---|
+|토도리|투두리스트|https://github.com/Pond-Lotus/lotus_aos|
+|BLE 통신 프로그램|BLE 통신 프로그램|https://github.com/ParkJongJoon7128/m-s_tech|
+|기분표현|기분표현|https://github.com/ParkJongJoon7128/mood-diary|
