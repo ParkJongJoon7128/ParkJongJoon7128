@@ -22,5 +22,4 @@
 |제목|내용|링크|
 |------|---|---|
 |토도리|투두리스트|https://github.com/Pond-Lotus/lotus_aos|
-|BLE 통신 프로그램|BLE 통신 프로그램|https://github.com/ParkJongJoon7128/m-s_tech|
 |필리|감정일기|https://github.com/ParkJongJoon7128/mood-diary|
