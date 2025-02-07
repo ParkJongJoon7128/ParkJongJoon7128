@@ -8,7 +8,7 @@
   <img src="https://github-readme-stats.vercel.app/api?username=ParkJongJoon7128&show_icons=true&count_private=true" width=48% />
 </a>
 
-<a href="https://github.com/ParkJongJoon7128/github-stats">
+<a href="https://github.com/jstrieb/github-stats">
  <img src="https://raw.githubusercontent.com/ParkJongJoon7128/github-stats/output/generated/languages.svg" width=51% />
 </a>
 
