@@ -9,7 +9,7 @@
 </a>
 
 <a href="https://github.com/jstrieb/github-stats">
- <img src="https://raw.githubusercontent.com/ParkJongJoon7128/github-stats/output/generated/languages.svg" width=51% />
+ <img src="https://github.com/ParkJongJoon7128/github-stats-transparent/blob/output/generated/languages.svg" />
 </a>
 
 <a href="https://github.com/ashutosh00710/github-readme-activity-graph">
