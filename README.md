@@ -6,24 +6,19 @@
 <br><br><br>
 
 <!-- stats & language 부분을 나란히 정렬 -->
-<table>
-  <tr>
-    <td>
-      <a href="https://github.com/anuraghazra/github-readme-stats">
-        <img src="https://github-readme-stats.vercel.app/api?username=ParkJongJoon7128&show_icons=true&count_private=true" width="100%"/>
-      </a>
-    </td>
-    <td>
-      <a href="https://github.com/jstrieb/github-stats">
-        <img src="https://github.com/ParkJongJoon7128/github-stats-transparent/blob/output/generated/languages.svg" width="100%"/>
-      </a>
-    </td>
-  </tr>
-</table>
+<!-- stats 부분 -->
+<a href="https://github.com/anuraghazra/github-readme-stats">
+<img src="https://github-readme-stats.vercel.app/api?username=ParkJongJoon7128&show_icons=true&count_private=true" width=48% />
+</a>
+
+<!-- language 부분 -->
+<a href="https://github.com/jstrieb/github-stats">
+<img src="https://github.com/ParkJongJoon7128/github-stats-transparent/blob/output/generated/languages.svg" width=51% />
+</a>
 
 <!-- 그래프 부분 (너비 최대로) -->
 <a href="https://github.com/ashutosh00710/github-readme-activity-graph">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=ParkJongJoon7128&theme=github-light&bg_color=white&hide_border=true" width="100%"/>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=ParkJongJoon7128&theme=github-light&bg_color=white&hide_border=true" width="100%"/>
 </a>
 
 <br><br><br>
